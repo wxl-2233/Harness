@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth *)",
+      "Bash(winget install *)",
+      "Bash(powershell *)",
+      "Bash(curl *)",
+      "Bash(msiexec *)",
+      "Bash(cmd.exe *)",
+      "Bash(gh *)"
+    ]
+  }
+}
