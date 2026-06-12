@@ -1,6 +1,7 @@
 # 教育数据挖掘平台 Harness
 
 > 基于 Claude Code Harness 思想构建的多智能体（Multi-Agent）协作开发框架
+> 
 > 项目部署基于 https://github.com/revfactory/harness
 
 ## 项目简介
