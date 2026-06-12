@@ -23,7 +23,7 @@
 项目采用 Claude Harness 的经典三层架构：
 
 ```text
-CLAUDE.md  ->  Agents -> Skills
+CLAUDE.md  ->  Agents  ->  Skills
 ```
 
 ## 1. CLAUDE.md —— 全局规则层
@@ -110,9 +110,9 @@ Skill 决定：
 开发一个教育数据挖掘平台：
 
 ```text
-用户需求
-      │
-      ▼
+     用户需求
+        │
+        ▼
 Platform Architect
       │
  ┌────┼─────┬─────┐
@@ -177,9 +177,3 @@ Platform Architect
 * 任务调度
 
 逐步向企业级 AI 开发平台演进。
-
----
-
-# License
-
-仅用于学习、研究与教学交流。
